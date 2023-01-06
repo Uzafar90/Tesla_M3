@@ -1,6 +1,6 @@
 # Tesla Model 3
 
-### A hero section of the Tesla Model3 which provide features and order button. Developed with HTML and CSS.
+### A minimalist hero section of the Tesla Model3 which provide features and order button. Developed with HTML and CSS.
 <br/>
 <img align="center" src="https://github.com/Uzafar90/Tesla_M3/blob/master/Tesla_m3.png"/>
 <br/>
